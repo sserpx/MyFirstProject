@@ -1,11 +1,18 @@
 <?php
 
-echo 'Now, take a look in there and find my wallet.';
+class Jules 
+{
+	
+	public function wallet()
+	{
+		echo 'Now, take a look in there and find my wallet.';
 
-echo '<br/><br/>';
+		echo '<br/><br/>';
 
-echo 'Which one is it?';
+		echo 'Which one is it?';
 
-echo '<br/><br/>';
+		echo '<br/><br/>';
 
-echo 'The one that says Bad Motherfucker.';
+		echo 'The one that says Bad Motherfucker.';
+	}
+}
