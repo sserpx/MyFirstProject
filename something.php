@@ -20,4 +20,9 @@ class Jules
 	{
 		echo "When I am nervous, I get scared. And when motherfuckers get scared, that's how motherfuckers get shot.";
 	}
+
+	public function jules()
+	{
+		echo "Chill them niggers out.";
+	}
 }
