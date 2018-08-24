@@ -15,4 +15,9 @@ class Jules
 
 		echo 'The one that says Bad Motherfucker.';
 	}
+
+	public function restaurant()
+	{
+		echo "When I am nervous, I get scared. And when motherfuckers get scared, that's how motherfuckers get shot.";
+	}
 }
